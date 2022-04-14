@@ -43,7 +43,7 @@
         @includeIf('layouts.sidebar')
 
         <!-- Content Wrapper. Contains page content -->
-        <div class="content-wrapper">
+        <div class="masuk-bg content-wrapper">
             <!-- Content Header (Page header) -->
             <section class="content-header">
                 <h1>
